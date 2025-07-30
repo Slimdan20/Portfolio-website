@@ -417,6 +417,10 @@ body {
     gap: 20px;
   }
 
+  #proj {
+    margin: 30px 40px;
+  }
+
   #pub {
     margin: 30px 40px;
   }
